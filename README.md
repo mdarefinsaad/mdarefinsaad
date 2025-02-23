@@ -1,4 +1,4 @@
-[![](./src/header_.png)](#)
+<!-- [![](./src/header_.png)](#) -->
 
 ### Hey all, 👋, I'm Arefin.
 
