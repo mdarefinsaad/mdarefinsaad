@@ -1,5 +1,5 @@
 <!-- [![](./src/header_.png)](#) -->
-[![](./src/banner.gif)](#)
+[![](./src/whoami.png)](#)
 ### Hey all, 👋, I'm Arefin.
 
 Full-Stack Developer 🧑‍💻 at [CarlundCarla.de](https://https://carlundcarla.de/)<br>
