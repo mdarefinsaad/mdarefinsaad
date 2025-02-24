@@ -1,6 +1,6 @@
 <!-- [![](./src/header_.png)](#) -->
 
-[![](./src/whoami.png)](#)
+[![](./src/whoami_new.png)](#)
 
 ### Hey all, 👋, I'm Arefin.
 
