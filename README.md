@@ -1,22 +1,21 @@
-[![](./src/header_.png)](#)
-
+<!-- [![](./src/header_.png)](#) -->
+[![](./src/banner.gif)](#)
 ### Hey all, 👋, I'm Arefin.
 
 Full-Stack Developer 🧑‍💻 at [CarlundCarla.de](https://https://carlundcarla.de/)<br>
 
 💼 4+ Years Experience in Full-stack Development.<br>
-🏛️ Pursuing Master's Degree in *Distributed System Engineering* at [Technische Universität Dresden](https://tu-dresden.de/).<br>
-
+🏛️ Pursuing Master's Degree in _Distributed System Engineering_ at [Technische Universität Dresden](https://tu-dresden.de/).<br>
 
 #### Recently,
 
-📜 I submitted my Master thesis on *Physical Layer Authentication* using Supervised Machine Learning.<br>
-🌱 Nowadays, I am exploring *AI & ML*, *DevOps with Docker & Kubernetes*, and *learning how to play nice songs in acoustic guitar*. <br>
-🎮 Playing *The Last of Us - Part 1* because my colleague said I'd be a fool if I do not try this game.  
+📜 I submitted my Master thesis on _Physical Layer Authentication_ using Supervised Machine Learning.<br>
+🌱 Nowadays, I am exploring _AI & ML_, delving into _DevOps with Docker & Kubernetes_, and learning to play acoustic guitar.<br>
+🎮 I'm playing _The Last of Us - Part 1_ because a colleague mentioned I'd be missing out if I didn't try this game.
 
 #### Beyond the Code,
-I'm someone who loves meeting new people, as each interaction brings a fresh perspective to life. Whether it's a friendly game of table tennis 🏓, football ⚽, or a competitive 8-ball pool match 🎱, I'm always up for some fun. As a tech enthusiast, I enjoy creating applications that are efficient, scalable, and visually appealing 🎨.
 
+I'm someone who loves meeting new people, as each interaction brings a fresh perspective to life. Whether it's a friendly game of table tennis 🏓, football ⚽, or a competitive 8-ball pool match 🎱, I'm always up for some fun. As a tech enthusiast, I enjoy creating applications that are efficient, scalable, and visually appealing 🎨.
 
 #### 💻 Tech Toolbox:
 
