@@ -11,15 +11,16 @@ Full-Stack Developer 🧑‍💻 at [CarlundCarla.de](https://https://carlundcar
 
 #### Recently,
 
-📜 I submitted my Master thesis on _Physical Layer Authentication_ using Supervised Machine Learning.<br>
+📜 I submitted my Master thesis on _Physical Layer Authentication_ using _Supervised Machine Learning._<br>
 🌱 Nowadays, I am exploring _AI & ML_, delving into _DevOps with Docker & Kubernetes_, and learning to play acoustic guitar.<br>
-🎮 I'm playing _The Last of Us - Part 1_ because a colleague mentioned I'd be missing out if I didn't try this game.
+🎮 I'm playing _The Last of Us - Part 1_ because my colleague insisted that missing out this game would be a post-apocalyptic faux pas.<br>
+🎶 I am a huge Metallica fan but at the same time I appreciate all kinds of music. Recently, I've been delving into EDM and currently enjoying tracks by Bedouin.
 
 #### Beyond the Code,
 
 I'm someone who loves meeting new people, as each interaction brings a fresh perspective to life. Whether it's a friendly game of table tennis 🏓, football ⚽, or a competitive 8-ball pool match 🎱, I'm always up for some fun. As a tech enthusiast, I enjoy creating applications that are efficient, scalable, and visually appealing 🎨.
 
-#### 💻 Tech Toolbox:
+#### 🧰 Tech Toolbox,
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -53,6 +54,6 @@ I'm someone who loves meeting new people, as each interaction brings a fresh per
 #### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-arefin-saad)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9975127)
 [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdarefinsaad@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9975127)
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/mdarefinsaad)
